@@ -23,12 +23,18 @@ margin: auto;
 margin-top: 10px;
 border-radius: 10px;
 }
-
+.content_1{
+height:625px;
+width:1200px;
+margin: auto;
+margin-top: 10px;
+border-radius: 10px;
+}
 .text{
 height:595px;
 width: 595px;
 float:left;
-border-radius: 100px;
+border-radius: 50px;
 background-color: rgba(0, 0, 0, 0.950);
 
 } 
@@ -36,19 +42,19 @@ background-color: rgba(0, 0, 0, 0.950);
     height:595px;
 width: 595px;
 float:right;
-border-radius: 100px;
+border-radius: 50px;
 }
 .g_1{
-    height:595px;
+    height:625px;
 width: 595px;
 float:right;
-border-radius: 100px;
+border-radius: 50px;
 }
 .g_2{
-height:595px;
+height:625px;
 width: 595px;
 float:left;
-border-radius: 100px;
+border-radius: 50px;
 
 
 } 
@@ -58,7 +64,7 @@ border-radius: 100px;
     background-color: rgb(9, 23, 151);
     margin-top: 10px;
     background-color: rgb(0, 0, 0);
-    border-radius:100px;
+    border-radius: 50px;
 }
 h1{
    text-align:center;
@@ -125,5 +131,14 @@ color: white;
     max-width: 90%;
 }
 .img_r{
-  border-radius: 100px;  
+  border-radius: 50px;  
+}
+.podtext{
+    width:100%;
+    height: 30px;
+    background-color: rgba(0, 0, 0, 0.555);
+    font-size: 25px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
 }
